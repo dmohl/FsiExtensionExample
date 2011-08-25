@@ -1,0 +1,7 @@
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\TestFsDte.XML
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\TestFsDte.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\obj\Debug\TestFsDte.pdb
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\TestFsDte.exe
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\obj\Debug\TestFsDte.exe
+C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\NuGet.Core.dll
