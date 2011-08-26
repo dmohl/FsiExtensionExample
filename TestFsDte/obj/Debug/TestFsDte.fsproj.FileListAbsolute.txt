@@ -5,3 +5,10 @@ C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\o
 C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\TestFsDte.exe
 C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\obj\Debug\TestFsDte.exe
 C:\Users\Daniel Mohl\Documents\Visual Studio 2010\Projects\TestFsDte\TestFsDte\bin\Debug\NuGet.Core.dll
+C:\git\TestFsDte\TestFsDte\bin\Debug\TestFsDte.XML
+C:\git\TestFsDte\TestFsDte\bin\Debug\TestFsDte.exe
+C:\git\TestFsDte\TestFsDte\bin\Debug\TestFsDte.pdb
+C:\git\TestFsDte\TestFsDte\bin\Debug\NuGet.Core.dll
+C:\git\TestFsDte\TestFsDte\obj\Debug\ResolveAssemblyReference.cache
+C:\git\TestFsDte\TestFsDte\obj\Debug\TestFsDte.exe
+C:\git\TestFsDte\TestFsDte\obj\Debug\TestFsDte.pdb
